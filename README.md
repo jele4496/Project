@@ -9,6 +9,6 @@
 # Data Pulling
 # For the data pulling, we downloaded the latest five available data publications (the years 2019, 2020, 2021, 2022, and 2023) as ZIP files. Each years' ZIP file contained CSV files for all individual tables avaible. We uploaded only the tables containing the data points we were using into our GitHub repository. 
 # Data Cleaning
-# 
+# We chose to not use the tables on "Honey Price by Color Class," "Income and Expenditures," "Queen, Package, and Nuc Prices Paid," "Apiary Workers," or "Reliability of Honey Estimates." 
 # Visualizations
 # Storytelling/Insight
