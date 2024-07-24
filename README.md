@@ -11,4 +11,5 @@
 # Data Cleaning
 # We chose to not use the tables on "Honey Price by Color Class," "Income and Expenditures," "Queen, Package, and Nuc Prices Paid," "Apiary Workers," or "Reliability of Honey Estimates." 
 # Visualizations
+![Alt text](value.png)
 # Storytelling/Insight
