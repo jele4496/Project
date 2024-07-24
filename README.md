@@ -22,6 +22,13 @@
 ![Alt text](value.png)
 # We chose to use line graphs for our visualizations since our data looks at change over time and we wanted to represent the trends seen.
 # We focused on the five most recent data publications from our data source, which were the years 2019, 2020, 2021, 2022, and 2023. 
-# In those publications we chose to focus on the number of honey producing colonies, the honey production by those colonies, and the value of the production
+# In those publications we chose to focus on the number of honey producing colonies, the honey production by those colonies, and the value of the production.
 #
 # Storytelling/Insight
+# Honey bees are important for agricultire and the environment. Honey bees pollinate over 130 species of fruits, nuts, and vegetables in the United States every year. Honey bees are also important to human health as honey has been consumed by humans for thousands of years for their claimed antioxidant, antimicrobial, anti-inflammatory, and anticancer properties.
+# Climate, weather conditions, and region have a large impact on honey bee productions. Flowers need moisture to bloom and when plants are stressed, they do not produce necatar. Without that nectar, bees cannot produce honey. 
+# As the number of honey producing colonies decreases, annual honey production tends to decreases as well. Honey bees are also facing pressures from herbicides and land use. 
+# While there is a general downward trend in annual honey production, in 2023 United States honey production went up 11 percent from 2022. Our data source did not clarify a reason for this, but after some research, we found it was likely due to rainier weather in 2023 allowing for more flower bloom. 
+# Honey production closely impacts the value of the production. As seen with the raise in honey production in 2023, the value of production went down for that year.  
+# Scaling up the data we used would have resulted in clearer long-term trends in each of these categories and could benefit this data analysis. 
+# It was also important to our data that we remove one column of the data specifically to ensure our data was the most accurate. 
